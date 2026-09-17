@@ -1,0 +1,36 @@
+---
+title: "Qualtrics M01-1: Designing a Survey"
+author: "Tim Arana"
+date: "September 16, 2026"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    embed-resources: true
+editor: visual
+---
+
+# Proof of Collaboration
+
+Screenshot showing the Qualtrics survey shared with Jae Jung (`jmjung`) with permissions enabled.
+
+![](images/collaboration.png)
+
+# Beginning of Survey
+
+Screenshot showing the beginning of the Qualtrics survey.
+
+![](images/beginning.png)
+
+# Middle of Survey
+
+Screenshot showing the middle portion of the Qualtrics survey.
+
+![](images/middle.png)
+
+# End of Survey
+
+Screenshot showing the ending portion of the Qualtrics survey.
+
+![](images/end.png)
